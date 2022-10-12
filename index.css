@@ -1,0 +1,65 @@
+.koko {
+    font-size: 40px;
+    margin-left: 30px;
+}
+
+.header-logo{
+    height: 120px;
+}
+
+.icon{
+    height: 50px;
+    width: 50px;
+    margin-bottom: 20px;
+}
+
+.bg-card{
+    height: 500px;
+    background-image: url(./381312.jpg);
+    background-repeat: no-repeat;
+}
+
+.card-padding{
+    padding: 100px;
+}
+
+.cards {
+    margin: 10px;
+    height: 230px;
+
+}
+.bg-footer{
+    height:300px;
+    background-color:burlywood
+}
+.text-center{
+    text-color: white;
+}
+
+.middle-section {
+    padding-left: 170px ;
+    padding-right: 170px;
+    padding-top: 80px ;
+    padding-bottom: 100px;
+}
+
+.picture-middle {
+    height: 600px;
+    background-image: url(./381312.jpg);
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;
+}
+
+.middle-divone {
+    height: 400px;
+    background-image: url(./Isolated-Yellow-Vehicle.png);
+    background-size: 500px 400px;
+    background-repeat: no-repeat;
+}
+
+.middle-divtwo {
+    height: 600px;
+    background-image: url(./Isolated-Excited-Lady-768x987.png);
+    background-size: 500px 600px;
+    background-repeat: no-repeat;
+}
