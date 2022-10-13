@@ -57,9 +57,6 @@
     background-repeat: no-repeat;
 }
 
-.middle-divtwo {
-    height: 600px;
-    background-image: url(./Isolated-Excited-Lady-768x987.png);
-    background-size: 500px 600px;
-    background-repeat: no-repeat;
-}
+footer {
+    background: #000;
+  }
